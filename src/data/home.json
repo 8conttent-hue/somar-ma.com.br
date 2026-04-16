@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "SOMAR-MA — Bem-vindo à Somar Assessoria e Serviços",
+    "description": "Sua parceira em soluções administrativas com ética e compromisso."
+  },
+  "hero": {
+    "title": "Bem-vindo à Somar Assessoria e Serviços",
+    "subtitle": "Sua parceira em soluções administrativas com ética e compromisso.",
+    "btnText": "Saiba Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "📊",
+        "title": "Compromisso com a Qualidade",
+        "desc": "Priorizamos a excelência em todos os serviços prestados, garantindo resultados eficazes para sua empresa."
+      },
+      {
+        "icon": "🤝",
+        "title": "Atendimento Personalizado",
+        "desc": "Nossa equipe qualificada está sempre pronta para atender às suas necessidades específicas, com um olhar atento ao detalhe."
+      },
+      {
+        "icon": "🔒",
+        "title": "Ética Profissional",
+        "desc": "Agimos com integridade e respeito, sempre respeitando os padrões éticos e legais do setor."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "A Somar Assessoria e Serviços é uma empresa que se destaca pela flexibilidade e seriedade em seus atendimentos. Nossa missão é fornecer soluções administrativas que promovam o crescimento de nossos clientes, sempre pautados pela ética e compromisso.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "50+",
+        "label": "Clientes Satisfeitos"
+      },
+      {
+        "value": "100%",
+        "label": "Compromisso com a Qualidade"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "SOMAR-MA",
+  "slug": "somar-ma.com.br",
+  "description": "A Somar A Somar Assessoria e Serviços nasceu a partir da identificação da necessidade de uma empresa que tenha em seu perfil, além da flexibilidade, três fatores muitos importantes para a Administração Pública e Privada: Seriedade, Compromisso e Ética Profissional. Isso é Legitimo. Contamos com uma equipe constituída por profissionais qualificados, competentes e criativos, os quais, em função da metodologia de trabalho e atendimento personalizado, procuram focar seus esforços nos interesses dos clientes, orientando-os para a melhor solução. Dentre os padrões rigorosamente éticos e legais, a Somar tem o compromisso de trabalhar pelo desenvolvimento de seus clientes buscando independência, competência e credibilidade. Nosso maior objetivo é possibilitar aos clientes o desenvolvimento e aprimoramento operacional de suas empresas e órgãos públicos, com o compromisso sério e efetivo de sempre buscar a excelência através da prestação de serviços de alta qualidade.   Principios Garantia de compromisso com os propósitos de nossos clientes na pontualidade, na qualidade, no aprimoramento e desenvolvimento dos serviços prestados por meio do modelo de gestão e manutenção dos princípios e valores organizacionais.   Nossa Visão Buscar o crescimento contínuo como forma de garantir a manutenção de nossos negócios nos serviços contratados por meio de uma equipe integrada e capacitada, sendo referência nesse segmento e no atendimento às necessidades de nossos clientes. – MEMBROS QUE INTEGRAM O INSTITUTO SOMAR – SOCIO- ADMINISTRADOR – GERENTE GERAL – GERENTE ADMINSTRATIVA – CONTADOR – ADVOGADO – PEDAGOGO – ADMINISTRADORA",
+  "url": "https://somar-ma.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "A Somar A Somar Assessoria e Servicos nasceu a partir da identificacao",
+  "email": "contato@somar-ma.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-A",
+    "hero": "Hero-C",
+    "features": "Features-B",
+    "about": "About-C",
+    "posts": "Posts-H",
+    "footer": "Footer-J",
+    "sobre": "Sobre-H",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

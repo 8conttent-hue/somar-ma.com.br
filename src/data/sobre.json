@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SOMAR-MA"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A Somar Assessoria e Serviços é uma empresa que se destaca pela flexibilidade e seriedade em seus atendimentos. Nossa missão é fornecer soluções administrativas que promovam o crescimento de nossos clientes, sempre pautados pela ética e compromisso."
+  },
+  "content": "A Somar Assessoria e Serviços nasceu a partir da identificação da necessidade de uma empresa que prioriza a seriedade, o compromisso e a ética profissional em seus serviços. Trabalhamos com uma equipe integrada de profissionais qualificados, prontos para melhor atender a sua empresa ou órgão público.",
+  "mission": "Nosso objetivo maior é proporcionar o desenvolvimento operacional e o aprimoramento contínuo dos nossos clientes, sempre buscando a excelência.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
